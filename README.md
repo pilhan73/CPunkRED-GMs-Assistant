@@ -5,9 +5,9 @@ Way to automate some menial GM tasks. Character stats, dice rolls, purchases, en
 
 
 - Character Sheets  
-	-Biography  
-		-Name, Handle, Role, etc.  
+	- Biography  
+		- Name, Handle, Role, etc.  
 	- Stats  
 		-Static and Derived  
-	-Skills  
+	- Skills  
 		- "Roll for..." skill table.  
